@@ -10,6 +10,8 @@ In the age of AI :
 
 Let’s create more new jobs opportunity for everyone thru this AI Experience platform..
 
+https://github.com/lumina45/AIExperience/blob/main/Screenshot%202026-05-25%20173636.png?raw=true
+
 Tools used to develop:
 Base44
 Replit
