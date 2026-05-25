@@ -14,4 +14,4 @@ Let’s create more new jobs opportunity for everyone thru this AI Experience pl
 
 ![image alt](https://github.com/lumina45/AIExperience/blob/74420ab2e3202d7538c356aa5a5a7432597b8f7b/Screenshot%202026-05-25%20173843.png?raw=true)
 
-![image alt](https://github.com/lumina45/AIExperience/blob/86be2a079db4704ec5639a1f5b608dd7b80bda20/Screenshot%202026-05-25%20173847.png?raw=true)
+![image alt](https://github.com/lumina45/AIExperience/blob/2810f72fa5382d1ddba5f65f9e205724d9832577/Screenshot%202026-05-25%20173926.png?raw=true)
