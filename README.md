@@ -12,7 +12,7 @@ Let’s create more new jobs opportunity for everyone thru this AI Experience pl
 
 Sample of jobs created in AI Experience platform:
 
-🔹 Creative Content & Storytelling Roles|
+🔹 1.Creative Content & Storytelling Roles|
 Experience Curator/
 Daily Life Content Creator/
 Human Moments Storyteller/
@@ -24,7 +24,7 @@ Everyday Life Podcaster/
 Relatable Experience Copywriter/
 Authenticity Content Producer/
 
-🔹 AI & Data Collaboration Roles|
+🔹 2.AI & Data Collaboration Roles|
 Human Experience Data Contributor/
 Cognitive Feedback Analyst/
 LLM Experience Trainer/
@@ -36,7 +36,7 @@ Behavioral Training Data Collector/
 Experience Monetization Strategist/
 Digital Human Signal Provider/
 
-🔹 Community & Platform Economy Roles|
+🔹 3.Community & Platform Economy Roles|
 Experience Marketplace Seller/
 Social Value Creator/
 Shared Life Economy Contributor/
@@ -48,7 +48,7 @@ Crowd-Lived Experience Reporter/
 User-Centric Story Vendor/
 Experience Channel Manager/
 
-🔹 Research, Psychology & Empathy Roles|
+🔹 4.Research, Psychology & Empathy Roles|
 Empathic Insights Specialist/
 Human Behavior Narrator/
 Sentient Trend Researcher/
@@ -56,7 +56,7 @@ Emotive Data Curator/
 Daily Reflection Research Associate/
 Experiential Psychographics Analyst/
 
-🔹 Futuristic & Disruptive Roles|
+🔹 5.Futuristic & Disruptive Roles|
 Meta-Human Experience Exporter/
 Digital Soul Trader/
 Augmented Reality Life Broker/
@@ -66,7 +66,7 @@ Consciousness Experience Trader/
 Immersive Life NFT Creator/
 Existence-as-a-Service (XaaS) Seller
 
-🔹 1. AI & Data Industry|
+🔹 6. AI & Data Industry|
 LLM Experience Trainer/
 Human Experience Data Contributor/
 Cognitive Feedback Analyst/
@@ -77,7 +77,7 @@ Personal Reality Input Specialist/
 Human Signal Provider for AI/
 Empathic Insights Collector
 
-🔹 2. Media, Content Creation & Storytelling|
+🔹 7. Media, Content Creation & Storytelling|
 Daily Life Content Creator/
 Human Moments Storyteller/
 Lifestyle Narrator/
@@ -88,7 +88,7 @@ Experience Channel Manager/
 Relatable Experience Copywriter/
 Authenticity Content Producer/
 
-🔹 3. Web3 / NFT / Metaverse|
+🔹 8. Web3 / NFT / Metaverse|
 Experience-as-a-Service (EaaS) Provider
 Immersive Life NFT Creator/
 Digital Soul Trader/
@@ -98,7 +98,7 @@ Daily Reality Broadcaster/
 Consciousness Experience Trader/
 Life-as-a-Service Influencer
 
-🔹 4. Research & Social Science|
+🔹 9. Research & Social Science|
 Experiential Psychographics Analyst/
 Daily Reflection Research Associate/
 Human Behavior Narrator/
@@ -107,7 +107,7 @@ Sentient Trend Researcher/
 Lifestyle Pattern Observer/
 Life Feedback Researcher
 
-🔹 5. Gig & Freelance Platforms|
+🔹 10. Gig & Freelance Platforms|
 Experience Marketplace Seller/
 Life Advice Freelancer/
 Shared Life Economy Contributor/
@@ -116,7 +116,7 @@ User-Centric Story Vendor/
 Everyday Problem Solver/
 Routine Innovation Consultant
 
-🔹 6. Marketing & Branding|
+🔹 12. Marketing & Branding|
 Social Value Creator/
 Authentic Life Brand Ambassador/
 Relatability Strategist/
