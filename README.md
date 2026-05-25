@@ -13,16 +13,16 @@ Let’s create more new jobs opportunity for everyone thru this AI Experience pl
 Sample of jobs created in AI Experience platform:
 
 🔹 Creative Content & Storytelling Roles
-Experience Curator
-Daily Life Content Creator
-Human Moments Storyteller
-Personal Journey Vlogger
-Lifestyle Narrator
-Micro-Experience Blogger
-Human Perspective Influencer
-Everyday Life Podcaster
-Relatable Experience Copywriter
-Authenticity Content Producer
+Experience Curator/
+Daily Life Content Creator/
+Human Moments Storyteller/
+Personal Journey Vlogger/
+Lifestyle Narrator/
+Micro-Experience Blogger/
+Human Perspective Influencer/
+Everyday Life Podcaster/
+Relatable Experience Copywriter/
+Authenticity Content Producer/
 
 🔹 AI & Data Collaboration Roles
 Human Experience Data Contributor
