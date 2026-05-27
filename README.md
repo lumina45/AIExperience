@@ -1,5 +1,7 @@
 # AIExperience
-AI Experience platform
+
+Project:AI Experience platform
+objective:To create a neverending jobs for humanity using human experience.
 
 In the age of AI :
 
